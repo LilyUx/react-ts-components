@@ -1,5 +1,5 @@
 import React from 'react'
-import { cleanup, fireEvent, render, RenderResult, waitFor } from '@testing-library/react'
+import { cleanup, fireEvent, render, RenderResult } from '@testing-library/react'
 import Tabs, { TabsProps } from './tabs'
 import TabItem from './TabItem'
 
